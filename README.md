@@ -1,7 +1,7 @@
 # rasbus
 Display nearby NYC MTA buses on a raspberry
 
-![rasbus][rasbus.png]
+![rasbus](rasbus.png)
 
 ## acknowledgements
 
